@@ -1,0 +1,28 @@
+# humanstxt.org
+# The humans responsible & technology colophon
+
+# TEAM
+
+  Christopher J. Agius
+  Human and Do-Everythinger
+  Twitter: @ahjuice
+
+# THANKS
+
+  My family for never abandoning me,
+  no matter how far I've fallen.
+
+  My friends who always believe in me,
+  even when I don't believe in myself.
+
+  My loving girlfriend, Xinlian,
+  for always staying by my side.
+
+# TECHNOLOGY COLOPHON
+
+  Last updated: 2018-02-19
+  Technologies used: HTML5, CSS3
+  Edited in Visual Studio Code
+  
+  Kicked off with HTML5 Boilerplate
+  (html5boilerplate.com)
