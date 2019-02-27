@@ -20,7 +20,7 @@
 
 # TECHNOLOGY COLOPHON
 
-  Last updated: 2018-02-19
+  Last updated: 2018-02-23
   Technologies used: HTML5, CSS3
   Edited in Visual Studio Code
   
